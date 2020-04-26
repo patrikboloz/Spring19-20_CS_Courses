@@ -8,3 +8,6 @@ April 7th 2020
 https://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf
 https://www.youtube.com/watch?v=1JbfCFMX7os
 https://www.onlinemathlearning.com/matrices-types.html
+
+ZOOM recording of class 4/23/2020
+https://nmhu.zoom.us/rec/share/7-d4PY_dq0dIb4HRw0r7aIB4JJumT6a8gydMq_oKzUZ8Hs_zp-euTdjQ7mlcDY4D
