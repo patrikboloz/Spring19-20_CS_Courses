@@ -1,0 +1,10 @@
+April 2, 2020
+https://www.youtube.com/watch?v=IHZwWFHWa-w&t=313s
+https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=1
+https://arxiv.org/pdf/1611.03530.pdf
+https://www.researchgate.net/publication/269040844_The_Loss_Surface_of_Multilayer_Networks
+
+April 7th 2020
+https://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf
+https://www.youtube.com/watch?v=1JbfCFMX7os
+https://www.onlinemathlearning.com/matrices-types.html
